@@ -40,8 +40,7 @@ public class Vehicle {
             e.printStackTrace();
         }
     }
-    //parsiraju String datum u pravi Date objekt pomoću SimpleDateFormat
-
+    //pomoć s neta
     public void startVehicle(){
         System.out.println("Starting engine...");
     }
